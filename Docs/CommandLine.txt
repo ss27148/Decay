@@ -1,0 +1,2 @@
+Decay.exe [file_to_open.decaydoc] [/autosave] [/lablog lablog_file]  
+    [/lang ui_language] [/db database_file]
